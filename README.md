@@ -11,7 +11,7 @@ Data de conclusão: 29/03/2022
 ```js
 function ReactComments(Project) {
     if (Front End) {
-        const Stack = `${HTML}, ${CSS}`;
+        const Stack = `${HTML}, ${CSS}, ${JavaScript}, ${React}`;
     }
 };
 ```
